@@ -5,5 +5,11 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LambdaSchool/node-db4-project.git"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.14"
   }
 }
